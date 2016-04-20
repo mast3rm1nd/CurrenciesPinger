@@ -1,0 +1,6 @@
+C:\Dropbox\!Coding\All_in_one\CurrenciesPinger\CurrenciesPinger\bin\Debug\pind.exe.config
+C:\Dropbox\!Coding\All_in_one\CurrenciesPinger\CurrenciesPinger\obj\Debug\CurrenciesPinger.csprojResolveAssemblyReference.cache
+C:\Dropbox\!Coding\All_in_one\CurrenciesPinger\CurrenciesPinger\bin\Debug\pind.exe
+C:\Dropbox\!Coding\All_in_one\CurrenciesPinger\CurrenciesPinger\bin\Debug\pind.pdb
+C:\Dropbox\!Coding\All_in_one\CurrenciesPinger\CurrenciesPinger\obj\Debug\pind.exe
+C:\Dropbox\!Coding\All_in_one\CurrenciesPinger\CurrenciesPinger\obj\Debug\pind.pdb
